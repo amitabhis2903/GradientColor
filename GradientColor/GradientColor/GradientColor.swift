@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 
+//Make Gradient Color in Swift
 extension UIView {
     public func setGradientColor(colorOne: UIColor, colorTwo: UIColor) {
            
